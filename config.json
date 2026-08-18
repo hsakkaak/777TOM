@@ -1,7 +1,7 @@
 {
    "author": ["Jihan"],
-    "facebookAccount": {
-    "email": "mahmudx077@gmail.com",
+    "facebookAccount": {https://www.facebook.com/share/19ScfeV3dS/
+    "email": "rahadulislamj@gmail.com",
     "password": "",
     "2FASecret": "",
     "i_user": "",
@@ -18,15 +18,15 @@
     "ignoreCommand": []
   },
 "adminBot": [
-    "100082979173147"
+    "61577849623044"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "HinataBot V3",
-  "prefix": "!",
+  "nickNameBot": "Hinata Priti💋",
+  "prefix": ".",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
