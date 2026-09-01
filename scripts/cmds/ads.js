@@ -38,7 +38,7 @@ module.exports = {
                 bn: {
                         noTarget: "× বেবি, কাউকে মেনশন দাও, রিপ্লাই করো অথবা UID দাও! 📺",
                         success: "Effect ad successful 📺",
-                        error: "× ইফেক্ট তৈরি করতে সমস্যা হয়েছে: %1। প্রয়োজনে Contact MahMUD।"
+                        error: "× ইফেক্ট তৈরি করতে সমস্যা হয়েছে: %1। প্রয়োজনে Contact SHAAHLOM"
                 },
                 en: {
                         noTarget: "× Baby, mention, reply, or provide UID of the target! 📺",
